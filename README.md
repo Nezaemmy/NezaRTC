@@ -1,6 +1,6 @@
 # NezaRTC
 
-Standalone Arduino RTC library for DS1307 and DS3231.
+Arduino RTC library for DS1307 and DS3231.
 
 ## Day name usage
 
